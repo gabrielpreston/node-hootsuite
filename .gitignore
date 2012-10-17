@@ -1,3 +1,4 @@
+*.komodoproject
 lib-cov
 *.seed
 *.log

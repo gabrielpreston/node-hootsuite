@@ -1,0 +1,19 @@
+{
+  "name": "hootsuite",
+  "description": "A hootsuite API library for Node.JS",
+  "tags": ["hootsuite", "util"],
+  "version": "0.0.1",
+  "author": "Gabriel Preston <gpreston@gmail.com>",
+  "contributors": [
+    { "name": "Gabriel Preston", "email": "gpreston@gmail.com" }
+  ],
+  "main": "./hootsuite",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gabrielpreston/node-hootsuite.git"
+  },
+  "scripts": {
+    "test": "~/bin/nodeunit test"
+  },
+  "engines": { "node": ">=0.4.0 <=0.6.19" }
+}
